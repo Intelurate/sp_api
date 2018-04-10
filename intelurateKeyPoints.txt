@@ -1,0 +1,24 @@
+
+Empowering the user
+
+
+Turn your SharePoint Applications into art work
+
+Simple to use
+
+SharePoint SOAP XML Abstraction
+
+getListItems Caching
+
+Easy Query Interface
+
+Built on top of jQuery
+
+Easily Design fluid SharePoint Applications
+
+Easy Data Access API
+
+inquire on how to join the Intelurate development team
+
+
+806
